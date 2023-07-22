@@ -28,6 +28,3 @@ By addressing these issues and visualizing the data relationships and correlatio
 
 
 
-
-User
-warning: in the working copy of '.ipynb_checkpoints/heart-disease-prediction-checkpoint.ipynb', LF will be replaced by CRLF the next time Git touches it
